@@ -9,6 +9,6 @@ import android.util.Log;
 public class First {
 
     public static void sayHello(){
-        Log.e("lvbo"," say hello ");
+        Log.e("lvbo"," say hello12313213 ");
     }
 }
